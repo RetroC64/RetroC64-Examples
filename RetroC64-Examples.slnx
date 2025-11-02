@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HelloAsm/HelloAsm.csproj" />
+  <Project Path="HelloBasic/HelloBasic.csproj" />
+</Solution>

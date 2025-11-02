@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HelloBasic": {
+      "commandName": "Project",
+      "commandLineArgs": "live"
+    }
+  }
+}
