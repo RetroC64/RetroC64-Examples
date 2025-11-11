@@ -15,6 +15,7 @@ Ensure that the VICE C64 emulator is [setup correctly](https://retroc64.github.i
 - [HelloBasic](./HelloBasic): A simple example showing how to write BASIC code inline.
 - [HelloAsm](./HelloAsm): A simple example showing how to write assembly code inline.
 - [HelloSprites](./HelloSprites): An example showing how to use sprites.
+- [HelloMusic](./HelloMusic): An example showing how to play music using the built-in SID player.]
 
 To run an example, navigate to the example folder and run: `dotnet watch -- run`.
 

@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="HelloAsm/HelloAsm.csproj" />
   <Project Path="HelloBasic/HelloBasic.csproj" />
+  <Project Path="HelloMusic/HelloMusic.csproj" Id="2c96b011-53c6-4026-9650-c5ba71965497" />
   <Project Path="HelloSprites/HelloSprites.csproj" Id="74823610-97cc-435c-9f76-bfabf7d7cb1d" />
 </Solution>
