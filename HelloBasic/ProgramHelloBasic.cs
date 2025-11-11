@@ -14,7 +14,7 @@ internal class HelloBasic : C64AppBasic
     {
         Text = """
                10 X = 1
-               20 PRINT "HELLO, WORLD" X
+               20 PRINT "HELLO, WORLD .NET CONF 2025" X
                30 REM X = X + 1
                40 REM GOTO 20
                """;

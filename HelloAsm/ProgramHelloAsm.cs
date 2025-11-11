@@ -10,11 +10,12 @@ return await C64AppBuilder.Run<HelloAsm>(args);
 
 public class HelloAsm : C64AppAsmProgram
 {
-    private bool FlickerColors { get; set; }
+    private bool FlickerColors { get; set; } = false;
 
     protected override Mos6502Label Build(C64AppBuildContext context, C64Assembler asm)
     {
-        asm.Label(out var start)
+        asm
+            .Label(out var start)
             .BeginCodeSection("Main");
 
         if (FlickerColors)

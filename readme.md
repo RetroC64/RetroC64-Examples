@@ -10,10 +10,11 @@ Make sure you have the [.NET SDK 9.0 or higher](https://dotnet.microsoft.com/en-
 
 ## 🧪 Examples
 
-Ensure that the VICE C64 emulator is [setup correctly](https://github.com/RetroC64/RetroC64/blob/main/doc/readme.md#emulator-setup-vice).
+Ensure that the VICE C64 emulator is [setup correctly](https://retroc64.github.io/docs).
 
 - [HelloBasic](./HelloBasic): A simple example showing how to write BASIC code inline.
 - [HelloAsm](./HelloAsm): A simple example showing how to write assembly code inline.
+- [HelloSprites](./HelloSprites): An example showing how to use sprites.
 
 To run an example, navigate to the example folder and run: `dotnet watch -- run`.
 
