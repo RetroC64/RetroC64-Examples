@@ -1,4 +1,13 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitattributes" />
+    <File Path=".gitignore" />
+    <File Path="Directory.Packages.props" />
+    <File Path="global.json" />
+    <File Path="license.txt" />
+    <File Path="readme.md" />
+  </Folder>
   <Project Path="HelloAsm/HelloAsm.csproj" />
   <Project Path="HelloBasic/HelloBasic.csproj" />
   <Project Path="HelloMusic/HelloMusic.csproj" Id="2c96b011-53c6-4026-9650-c5ba71965497" />
