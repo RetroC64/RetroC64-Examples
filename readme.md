@@ -16,6 +16,7 @@ Ensure that the VICE C64 emulator is [setup correctly](https://retroc64.github.i
 - [HelloAsm](./HelloAsm): A simple example showing how to write assembly code inline.
 - [HelloSprites](./HelloSprites): An example showing how to use sprites.
 - [HelloMusic](./HelloMusic): An example showing how to play music using the built-in SID player.
+- [HelloMulti](./HelloMulti): An example showing how to generate multi-disk D64 files.
 
 To run an example, navigate to the example folder and run: `dotnet watch -- run`.
 
