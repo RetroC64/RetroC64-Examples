@@ -8,6 +8,7 @@
     <File Path="license.txt" />
     <File Path="readme.md" />
   </Folder>
+  <Project Path="C64NETConf2025/C64NETConf2025.csproj" />
   <Project Path="HelloAsm/HelloAsm.csproj" />
   <Project Path="HelloBasic/HelloBasic.csproj" />
   <Project Path="HelloMulti/HelloMulti.csproj" Id="e9384072-4d17-470a-9f88-26faee16087a" />

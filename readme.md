@@ -17,6 +17,7 @@ Ensure that the VICE C64 emulator is [setup correctly](https://retroc64.github.i
 - [HelloSprites](./HelloSprites): An example showing how to use sprites.
 - [HelloMusic](./HelloMusic): An example showing how to play music using the built-in SID player.
 - [HelloMulti](./HelloMulti): An example showing how to generate multi-disk D64 files.
+- [C64NETConf2025](./C64NETConf2025): Example code used during the presentation for the .NET Conf 2025.
 
 To run an example, navigate to the example folder and run: `dotnet watch -- run`.
 
