@@ -4,6 +4,6 @@
     <CentralPackageTransitivePinningEnabled>false</CentralPackageTransitivePinningEnabled>
   </PropertyGroup>
   <ItemGroup>
-    <PackageVersion Include="RetroC64" Version="1.0.0" />
+    <PackageVersion Include="RetroC64" Version="1.0.2" />
   </ItemGroup>
 </Project>

@@ -22,8 +22,8 @@ public class HelloMusic : C64AppAsmProgram
 {
     protected override void Initialize(C64AppInitializeContext context)
     {
-        // Set VICE emulator sound volume (optional aesthetic tweak).
-        context.Settings.Vice.SoundVolume = 100;
+        // Set VICE emulator sound volume (Set it low for .NET Conf live)
+        context.Settings.Vice.SoundVolume = 10;
     }
 
     protected override Mos6502Label Build(C64AppBuildContext context, C64Assembler asm)
